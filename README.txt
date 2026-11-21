@@ -1,0 +1,1 @@
+Open index.html to preview. Upload index.html, privacy.html, style.css and release.js together to any static host. When ready, set downloadUrl in release.js to your public Microsoft Store listing or official HTTPS installer. Use the public URL ending in /privacy.html in Partner Center.
